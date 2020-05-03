@@ -1,0 +1,12 @@
+# ignore these files:
+Citi_Bike_Trip_Data_Unused_Code.ipynb
+Citi_Bike_Trip_Data_v1.ipynb
+Citi_Bike_Trip_Data_v2.ipynb
+Tableau_Citi_Bikes.twbx
+
+
+
+
+# ignore these directories/folders:
+.ipynb_checkpoints
+Resources
